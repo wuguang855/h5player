@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin: 0;  
+}
+html{
+   background-color: #eee; 
+}
+#wonxAd_demo {
+    width:10rem; 
+    background-color: #eee;
+    overflow: hidden;
+    margin: auto;
+}
+.container{
+   width:9.4rem; 
+   padding: .3rem;
+   background-color: #eee;
+}
+
+
+.template{
+    display: inline-block;
+    float: left;
+    width: 3rem;
+    height: 5.4rem;
+    margin: .1rem 0;
+    text-decoration:none; 
+    color:#000; 
+}
+.template:nth-child(3n+2){
+    margin:.1rem .2rem
+}
+.cover{
+    width: 3rem;
+    height: 4.6rem;  
+}
+.cover img{
+    width: 3rem;
+    height: 4.6rem;    
+}
+.title{
+    width: 3rem;
+    height: .8rem;  
+    line-height:.8rem;
+    text-align: center;
+    font-size: .35rem;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2Nzcy9saXN0LmM4ZWQwYzlkNjJjY2E5ZTM1ODhkY2ExMTE3OTA4MGZlLmNzcyIsInNvdXJjZVJvb3QiOiIifQ==*/

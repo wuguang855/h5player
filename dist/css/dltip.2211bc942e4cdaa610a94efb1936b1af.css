@@ -1,0 +1,35 @@
+.main{
+	width: 10rem;
+	margin: auto;
+	font-size: 14px;
+}
+.info{
+	width: 8rem;
+	font-size: .4rem;
+	font-weight: 900;
+	margin: 1rem;
+	text-align: .8rem;
+}
+.btn_copy{
+	color: #fff;
+	background-color: #006DEE;
+	width: 4rem;
+	margin: 0 3rem;
+	border-radius: .1rem;
+	line-height: .8rem;
+	height: .8rem;
+	text-align: center;
+	font-size: .3rem;
+}
+p{
+	/*width: 6rem;*/
+	font-size: .3rem;
+	font-weight: 200;
+	margin: 1rem;
+	text-align: .6rem;	
+}
+a{
+	color: #55d;
+	font-weight: 900;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2Nzcy9kbHRpcC4yMjExYmM5NDJlNGNkYWE2MTBhOTRlZmIxOTM2YjFhZi5jc3MiLCJzb3VyY2VSb290IjoiIn0=*/

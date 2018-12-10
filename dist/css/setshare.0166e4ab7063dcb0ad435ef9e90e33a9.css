@@ -1,0 +1,123 @@
+html,body { 
+	height: 100%;
+	margin: 0; 
+	padding: 0;
+	overflow: hidden;
+}
+.container{
+	position: relative;
+	width: 8.6rem;
+	padding:.7rem;
+	height: 100%;
+	margin: auto;
+	background-color: #eee;
+}
+.title {
+	font-size: .4rem;
+	color: #333333;
+	line-height: 1.6rem;
+}
+.content{
+	width: 8.6rem;
+	height: 3rem;
+}
+
+.leftContent{
+	float: left;
+	width: 2rem;
+}
+.imgDiv{
+	width: 2rem;
+	height: 2rem;
+	border-radius: .15rem;
+	overflow: hidden;
+}
+.imgDiv img {
+	width: 100%;
+	height:100%;
+}
+.btn_upimg,.container_upimg{
+	display: none;
+}
+.pross{
+	width: 100%;
+	background-color: rgba(100,255,100,.7);
+}
+
+.butDiv{
+	border-radius: .15rem;
+	background-color: #aaa;
+	width: 2rem;
+	height: .75rem;
+	line-height: .75rem;
+	text-align: center;
+	margin-top: .25rem;	
+	font-size: .4rem;
+	color: #fff;
+}
+
+
+.rightContent{
+	float: left;
+	margin-left: .3rem;
+	width: 6.3rem;
+}
+
+
+
+.inputStyle {
+	width: 6.28rem;
+	height: .98rem;
+	line-height: .98rem;
+	background-color: rgba(0, 0, 0, 0);
+	border-radius: .15rem;
+	border: .02rem solid #aaa;
+	font-size: .4rem;
+	padding: 0 .15rem;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.textareaStyle {
+	width: 6.28rem;
+	height: 1.73rem;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	background-color: rgba(0, 0, 0, 0);
+	border-radius: .15rem;
+	border: .02rem solid #aaa;
+	font-size: .4rem;
+	padding: 0 .15px;
+	margin-top: .25rem;
+	padding: .15rem;
+	resize:none;
+	outline:none;
+}
+
+
+
+.bottomContent {
+	position: absolute;
+	top: 5rem;
+	width: 10rem;
+	height: 2.5rem;
+	left: 0;
+	text-align: center;
+}
+.lookBut {
+	width: 4rem;
+	height: 1rem;
+	background-color: #3AC34F;
+	text-align: center;
+	border-radius: .15rem;
+	display: inline-block;
+	margin-bottom: .45rem;
+	line-height: 1rem;
+	color: #fff;
+	font-size: .4rem;
+}
+.noteTextStyle {
+	font-size: .35rem;
+	text-align: center;
+	color: #666666;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2Nzcy9zZXRzaGFyZS4wMTY2ZTRhYjcwNjNkY2IwYWQ0MzVlZjllOTBlMzNhOS5jc3MiLCJzb3VyY2VSb290IjoiIn0=*/
